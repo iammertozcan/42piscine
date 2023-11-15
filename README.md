@@ -1,5 +1,5 @@
 # cpiscine
-42PiscineExercises
+42 Piscine Exercises
 # c00
 - Basic Structures and Data Types
 - Control Structures _(if, else & while)_
