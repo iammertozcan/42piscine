@@ -15,4 +15,5 @@
   - _Pass-by-Reference_
 # *c02 / c03*
 - Characters and Strings
-- ASCII
+  - _Character-Processing Functions_
+  - _ASCII_
