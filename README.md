@@ -8,6 +8,9 @@
 - Functions
 # *c01*
 - Arrays
+  - _Single Dimentional Arrays_
+  - _Array Operations_
+  - _Relationship of Arrays with Pointers_
 - Pointers
   - _Pass-by-Reference_
 # *c02 / c03*
