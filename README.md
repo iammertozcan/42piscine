@@ -2,7 +2,7 @@
 42 Piscine Exercises
 # *c00*
 - Basic Structures and Data Types
-  -_Pass-by-Value_
+  - _Pass-by-Value_
 - Control Structures
   - _if, else & while_
 - Functions
