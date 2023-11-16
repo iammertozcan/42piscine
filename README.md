@@ -1,13 +1,15 @@
 # cpiscine
 42 Piscine Exercises
-# c00
+# *c00*
 - Basic Structures and Data Types
-- Control Structures _(if, else & while)_
+  -_Pass-by-Value_
+- Control Structures
   - _if, else & while_
 - Functions
-# c01
+# *c01*
 - Arrays
-- Pointers 
-# c02 / c03
+- Pointers
+  - _Pass-by-Reference_
+# *c02 / c03*
 - Characters and Strings
 - ASCII
