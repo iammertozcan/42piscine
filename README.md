@@ -7,6 +7,6 @@
 # c01
 - Arrays
 - Pointers 
-# c02
+# c02 / c03
 - Characters and Strings
 - ASCII
