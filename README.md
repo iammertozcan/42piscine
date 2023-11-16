@@ -13,6 +13,8 @@
   - _Relationship of Arrays with Pointers_
 - Pointers
   - _Pass-by-Reference_
+  - _Dereferencing_
+  - _Pointer Arithmetic_
 # *c02 / c03*
 - Characters and Strings
   - _Character-Processing Functions_
