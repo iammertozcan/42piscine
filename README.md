@@ -6,6 +6,7 @@
 - Control Structures
   - _if, else & while_
 - Functions
+  - _Recursive Function_
 # *c01*
 - Arrays
   - _Single Dimentional Arrays_
@@ -19,6 +20,10 @@
 - Characters and Strings
   - _Character-Processing Functions_
   - _ASCII_
+# *c04*
+# *c05*
+  - Recursive Function
+# *c06*
 
 |    | c00  | c01  | c02  | c03  | c04  | c05  | c06  |
 | -- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
