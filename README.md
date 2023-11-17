@@ -19,6 +19,7 @@
 - Characters and Strings
   - _Character-Processing Functions_
   - _ASCII_
+
 | c00  | c01  | c02  | c03  |
 | ---- | ---- | ---- | ---- |
 | ex00 | ex00 | ex00 | ex00 |
