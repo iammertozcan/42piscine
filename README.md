@@ -20,7 +20,7 @@
   - _Character-Processing Functions_
   - _ASCII_
 
-| :) | c00  | c01  | c02  | c03  | c04  | c05  | c06  |
+|    | c00  | c01  | c02  | c03  | c04  | c05  | c06  |
 | -- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 00 | ex00 | ex00 | ex00 | ex00 | ex00 | ex00 | ex00 |
 | 01 | ex01 | ex01 | ex01 | ex01 | ex01 | ex01 | ex01 |
