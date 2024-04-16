@@ -1,5 +1,5 @@
-# cpiscine
-42 Piscine Exercises
+# 42 Piscine
+This repository contains my solutions for the 42 School’s Piscine program.
 # *c00*
 - Basic Structures and Data Types
   - _Pass-by-Value_
