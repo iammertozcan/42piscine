@@ -40,3 +40,5 @@ This repository contains my solutions for the 42 School’s Piscine program.
 | 10 |         |         |      |      | ex10 |      |      |      |
 | 11 |         |         |      |      | ex11 |      |      |      |
 | 12 |         |         |      |      | ex12 |      |      |      |
+# Contributing
+This repository contains my personal work, but feel free to open issues or pull requests for any errors or improvement suggestions.
