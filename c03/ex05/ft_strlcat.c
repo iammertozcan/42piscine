@@ -3,7 +3,7 @@ unsigned int	ft_strlen(char *str)
 	unsigned int	i;
 
 	i = 0;
-	while (str[i] != '\0')
+	while (str[i])
 		i++;
 	return (i);
 }
@@ -17,7 +17,7 @@ unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
 		return (size + ft_strlen(src));
 	i = ft_strlen(dest);
 	j = 0;
-	while (src[j] != '\0' && i + 1 < size)
+	while (src[j] && i + 1 < size)
 	{
 		dest[i] = src[j];
 		i++;
